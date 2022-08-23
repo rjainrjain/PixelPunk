@@ -1,0 +1,16 @@
+PixelPunk<
+
+head = Head{color=#9EBDF0}
+headOutline = HeadOutline{color=#0C2AF0}
+canvas = Canvas{color=#F27EE3}
+mouth = Mouth{color=#0C2AF0}
+eyes = Eyes{color=#7B09ED}
+ponytail = Ponytail{color=#15ED32}
+
+canvas
+head
+headOutline
+mouth
+eyes
+ponytail
+>

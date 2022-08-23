@@ -1,0 +1,18 @@
+PixelPunk<
+
+head = Head{color=#E0AC69}
+headOutline = HeadOutline{color=#8D5524}
+canvas = Canvas{color=#F5E70A}
+crazyHair = CrazyHair{color=#000000}
+sunglasses = Sunglasses{color=#000000}
+nose = Nose{color=#8D5524}
+mouth = Mouth{color=#8D5524}
+
+canvas
+head
+headOutline
+mouth
+nose
+crazyHair
+sunglasses
+>

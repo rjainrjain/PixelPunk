@@ -1,0 +1,8 @@
+PixelPunk<
+
+head = Head{color=#E0AC69}
+canvas = Canvas{color=#FF28AF}
+
+canvas
+head
+>

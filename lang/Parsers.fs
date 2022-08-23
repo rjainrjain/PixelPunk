@@ -323,3 +323,8 @@ let diagnosticMessage(window_sz: int)(failure_pos: int)(buffer: string)(err: str
     let diag = err + "\n\n" + window + "\n" + (leftpad "^" ' ' (caret_pos - 1)) + "\n"
 
     diag
+
+let psatStr(f: string -> bool) : Parser<string> =
+    cause
+        (pbind (pmany1 pitem |>> stringify) (fun c -> if (f c) then presult c else pzero))
+        "psatStr"

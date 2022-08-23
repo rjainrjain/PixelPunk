@@ -13,6 +13,6 @@ let main argv =
   let input = File.ReadAllText(path)
   let asto = parse input
   match asto with
-  | Some ast -> eval ast
+  | Some ast -> printfn("Success! Open the generated PixelPunk.svg file for your PixelPunk"); (eval ast)
   | None -> printfn "Invalid program."
   0

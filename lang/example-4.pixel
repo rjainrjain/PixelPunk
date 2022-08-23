@@ -1,0 +1,16 @@
+PixelPunk<
+
+head = Head{color=#FFDBAC}
+headOutline = HeadOutline{color=#000000}
+canvas = Canvas{color=#BEF5BA}
+beard = Beard{color=#8D5524}
+mouth = Mouth{color=#000000}
+movieGlasses = MovieGlasses{color=#EDEEF2}
+
+canvas
+head
+headOutline
+movieGlasses
+mouth
+beard
+>

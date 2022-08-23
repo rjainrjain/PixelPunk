@@ -1,0 +1,49 @@
+PixelPunk<
+
+canvas = Canvas{color=#C6E1F1}
+head = Head{color=#FFE2AE}
+crazyHair = CrazyHair{color=#F0EBEB}
+headOutline = HeadOutline{color=#000000}
+mouth = Mouth{color=#C20463}
+
+hat = Hat{color=#FFB6C1}
+
+choker = Attribute{
+Pixel(row=23,col=7,color=#000000)
+Pixel(row=23,col=8,color=#000000)
+Pixel(row=23,col=9,color=#FFD700)
+Pixel(row=23,col=10,color=#000000)
+Pixel(row=23,col=11,color=#000000)
+}
+
+laserEyes = Attribute{
+Pixel(row=12,col=10,color=#C20404)
+Pixel(row=12,col=15,color=#C20404)
+Pixel(row=13,col=9,color=#C20404)
+Pixel(row=13,col=10,color=#C20404)
+Pixel(row=13,col=11,color=#F71414)
+Pixel(row=13,col=12,color=#F71414)
+Pixel(row=13,col=13,color=#F71414)
+Pixel(row=13,col=14,color=#C20404)
+Pixel(row=13,col=15,color=#C20404)
+Pixel(row=13,col=16,color=#F71414)
+Pixel(row=13,col=17,color=#F71414)
+Pixel(row=13,col=18,color=#F71414)
+Pixel(row=13,col=19,color=#F71414)
+Pixel(row=13,col=20,color=#F71414)
+Pixel(row=13,col=21,color=#F71414)
+Pixel(row=13,col=22,color=#F71414)
+Pixel(row=13,col=23,color=#F71414)
+Pixel(row=13,col=24,color=#F71414)
+Pixel(row=14,col=10,color=#C20404)
+Pixel(row=14,col=15,color=#C20404)
+}
+
+canvas
+head
+headOutline
+crazyHair
+laserEyes
+mouth
+choker
+>

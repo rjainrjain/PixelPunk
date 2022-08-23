@@ -1,0 +1,226 @@
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.deps.json
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.runtimeconfig.json
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.deps.json
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.runtimeconfig.json
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.pdb
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/FSharp.Core.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/testhost.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.pdb
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.fsproj.AssemblyReference.cache
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.AssemblyInfoInputs.cache
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.AssemblyInfo.fs
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.fsproj.CopyComplete
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.pdb
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.genruntimeconfig.cache
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.deps.json
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.runtimeconfig.json
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.deps.json
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.runtimeconfig.json
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tests.pdb
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/FSharp.Core.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/testhost.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/bin/Debug/net6.0/lang.pdb
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.fsproj.AssemblyReference.cache
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.AssemblyInfoInputs.cache
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.AssemblyInfo.fs
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.fsproj.CopyComplete
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.pdb
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/tests/obj/Debug/net6.0/tests.genruntimeconfig.cache

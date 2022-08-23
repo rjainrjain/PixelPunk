@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gz9I8hABdC6sXDDf+vl5afrWTt0fXsDVpVez03nFyk8GdPv6AqsT/OkfzdOqTNGh7PLVh+mqvpe5zYGBguINBg==",
+  "success": true,
+  "projectFilePath": "/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/lang.fsproj",
+  "expectedPackageFiles": [
+    "/Users/maxkan/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

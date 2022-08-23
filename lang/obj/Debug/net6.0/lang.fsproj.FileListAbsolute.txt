@@ -1,0 +1,52 @@
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.fsproj.AssemblyReference.cache
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.AssemblyInfoInputs.cache
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.AssemblyInfo.fs
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.deps.json
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.runtimeconfig.json
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.pdb
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/FSharp.Core.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.fsproj.CopyComplete
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.dll
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.pdb
+/Users/maxkan/Documents/College/CS 334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.genruntimeconfig.cache
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.deps.json
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.runtimeconfig.json
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/lang.pdb
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/FSharp.Core.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.fsproj.AssemblyReference.cache
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.AssemblyInfoInputs.cache
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.AssemblyInfo.fs
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.fsproj.CopyComplete
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.dll
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.pdb
+/Users/rijuljain/cs334/cs334_project-mkan1-rjainrjain/lang/obj/Debug/net6.0/lang.genruntimeconfig.cache
